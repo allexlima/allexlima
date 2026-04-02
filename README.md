@@ -1,26 +1,21 @@
-# Hi there, I'm Allex 👋
+# Hey, I'm Allex 👋
 
-### AI/ML Specialist Solutions Architect | Deep Learning Expert
+**AI/ML Specialist Solutions Architect @ Databricks**
 
-I am currently an **AI/ML Specialist Solutions Architect at Databricks**, focusing on data intelligence and scaling machine learning. Previously, I spent nearly five years at **Amazon Web Services (AWS)** as a Deep Learning Architect, helping build the foundations for complex AI workloads.
-
-I am a strong advocate for the open-source community and served as a co-organizer for the **NumFocus PyData** educational program in Manaus.
+I work on data intelligence and scaling ML — previously spent ~5 years at AWS as a Deep Learning Architect. Open-source advocate and former co-organizer of **NumFocus PyData Manaus**.
 
 ---
 
-### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Large Language Models (LLMs), Generative AI, and Data Intelligence Platforms.
-- 🌱 **Currently learning:** Advanced Lakehouse architectures and Unity Catalog optimization.
-- 💬 **Ask me about:** PyTorch, Deep Learning optimization, AWS infrastructure, or the Python data ecosystem.
-- ⚡ **Fun fact:** I'm a vinyl enthusiast with a love for high-fidelity audio and rock music (specifically Pink Floyd and Guns N' Roses).
+🔭 Focused on LLMs, GenAI, and Data Intelligence Platforms
+🌱 Diving deeper into Lakehouse architectures & Unity Catalog
+💬 Ask me about PyTorch, deep learning, AWS infra, or the Python data ecosystem
+🎸 Vinyl collector, hi-fi nerd — Pink Floyd & GN'R
 
 ---
 
-> [!IMPORTANT]
-> All my opinions and code are my own and do not represent the views of my employer. Code provided here follows best practices whenever possible but should not be used in production without careful analysis.
+> **Note:** All opinions and code are my own, not my employer's. Nothing here is production-ready without your own review.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=allexlima&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allexlima&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allexlima&layout=compact&theme=radical)
