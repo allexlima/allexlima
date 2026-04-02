@@ -14,8 +14,3 @@ I work on data intelligence and scaling ML — previously spent ~5 years at AWS 
 ---
 
 > **Note:** All opinions and code are my own, not my employer's. Nothing here is production-ready without your own review.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allexlima&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allexlima&layout=compact&theme=radical)
